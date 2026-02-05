@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "uuARELGL4XU=",
+  "dgSpecHash": "dOsAZlBzeY4=",
   "success": true,
   "projectFilePath": "C:\\Users\\sogunsanya\\OneDrive - Upland Software Inc\\Desktop\\Toluwani_Project\\src\\FibroidMonitor\\Infrastructure\\FibroidMonitor.Infrastructure\\FibroidMonitor.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sogunsanya\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\sogunsanya\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.3\\microsoft.extensions.logging.abstractions.8.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

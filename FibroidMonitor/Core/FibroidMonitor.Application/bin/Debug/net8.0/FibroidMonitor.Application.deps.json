@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "FibroidMonitor.Application/1.0.0": {
+        "dependencies": {
+          "FibroidMonitor.Domain": "1.0.0"
+        },
         "runtime": {
           "FibroidMonitor.Application.dll": {}
+        }
+      },
+      "FibroidMonitor.Domain/1.0.0": {
+        "runtime": {
+          "FibroidMonitor.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "FibroidMonitor.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FibroidMonitor.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

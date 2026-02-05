@@ -33,3 +33,4 @@ C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\
 C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\API\FibroidMonitor.Api\obj\Debug\net8.0\FibroidMonitor.Api.pdb
 C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\API\FibroidMonitor.Api\obj\Debug\net8.0\FibroidMonitor.Api.genruntimeconfig.cache
 C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\API\FibroidMonitor.Api\obj\Debug\net8.0\ref\FibroidMonitor.Api.dll
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\API\FibroidMonitor.Api\obj\Debug\net8.0\FibroidMonitor.Api.sourcelink.json

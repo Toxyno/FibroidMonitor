@@ -9,3 +9,8 @@ C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\
 C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Core\FibroidMonitor.Application\obj\Debug\net8.0\refint\FibroidMonitor.Application.dll
 C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Core\FibroidMonitor.Application\obj\Debug\net8.0\FibroidMonitor.Application.pdb
 C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Core\FibroidMonitor.Application\obj\Debug\net8.0\ref\FibroidMonitor.Application.dll
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Core\FibroidMonitor.Application\obj\Debug\net8.0\FibroidMonitor.Application.sourcelink.json
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Core\FibroidMonitor.Application\bin\Debug\net8.0\FibroidMonitor.Domain.dll
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Core\FibroidMonitor.Application\bin\Debug\net8.0\FibroidMonitor.Domain.pdb
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Core\FibroidMonitor.Application\obj\Debug\net8.0\FibroidMonitor.Application.csproj.AssemblyReference.cache
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Core\FibroidMonitor.Application\obj\Debug\net8.0\FibroidM.D951C211.Up2Date

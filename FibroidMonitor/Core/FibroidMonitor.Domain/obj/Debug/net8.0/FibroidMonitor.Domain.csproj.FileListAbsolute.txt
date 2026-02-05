@@ -9,3 +9,4 @@ C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\
 C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Core\FibroidMonitor.Domain\obj\Debug\net8.0\refint\FibroidMonitor.Domain.dll
 C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Core\FibroidMonitor.Domain\obj\Debug\net8.0\FibroidMonitor.Domain.pdb
 C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Core\FibroidMonitor.Domain\obj\Debug\net8.0\ref\FibroidMonitor.Domain.dll
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Core\FibroidMonitor.Domain\obj\Debug\net8.0\FibroidMonitor.Domain.sourcelink.json

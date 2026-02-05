@@ -1,6 +1,6 @@
 ﻿namespace FibroidMonitor.Persistence
 {
-    public class Class1
+    public class PersistenceServiceRegistration
     {
 
     }

@@ -9,3 +9,10 @@ C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\
 C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Persistence\obj\Debug\net8.0\refint\FibroidMonitor.Persistence.dll
 C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Persistence\obj\Debug\net8.0\FibroidMonitor.Persistence.pdb
 C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Persistence\obj\Debug\net8.0\ref\FibroidMonitor.Persistence.dll
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Persistence\obj\Debug\net8.0\FibroidMonitor.Persistence.sourcelink.json
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Persistence\bin\Debug\net8.0\FibroidMonitor.Application.dll
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Persistence\bin\Debug\net8.0\FibroidMonitor.Domain.dll
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Persistence\bin\Debug\net8.0\FibroidMonitor.Application.pdb
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Persistence\bin\Debug\net8.0\FibroidMonitor.Domain.pdb
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Persistence\obj\Debug\net8.0\FibroidMonitor.Persistence.csproj.AssemblyReference.cache
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Persistence\obj\Debug\net8.0\FibroidM.C8D6E2E4.Up2Date
