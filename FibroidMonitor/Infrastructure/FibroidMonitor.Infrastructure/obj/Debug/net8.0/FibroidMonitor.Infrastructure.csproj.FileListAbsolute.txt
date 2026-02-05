@@ -1,0 +1,11 @@
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Infrastructure\bin\Debug\net8.0\FibroidMonitor.Infrastructure.deps.json
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Infrastructure\bin\Debug\net8.0\FibroidMonitor.Infrastructure.dll
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Infrastructure\bin\Debug\net8.0\FibroidMonitor.Infrastructure.pdb
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Infrastructure\obj\Debug\net8.0\FibroidMonitor.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Infrastructure\obj\Debug\net8.0\FibroidMonitor.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Infrastructure\obj\Debug\net8.0\FibroidMonitor.Infrastructure.AssemblyInfo.cs
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Infrastructure\obj\Debug\net8.0\FibroidMonitor.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Infrastructure\obj\Debug\net8.0\FibroidMonitor.Infrastructure.dll
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Infrastructure\obj\Debug\net8.0\refint\FibroidMonitor.Infrastructure.dll
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Infrastructure\obj\Debug\net8.0\FibroidMonitor.Infrastructure.pdb
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Infrastructure\obj\Debug\net8.0\ref\FibroidMonitor.Infrastructure.dll

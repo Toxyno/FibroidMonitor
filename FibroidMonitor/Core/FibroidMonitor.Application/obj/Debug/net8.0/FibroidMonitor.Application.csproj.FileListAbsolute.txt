@@ -1,0 +1,11 @@
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Core\FibroidMonitor.Application\bin\Debug\net8.0\FibroidMonitor.Application.deps.json
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Core\FibroidMonitor.Application\bin\Debug\net8.0\FibroidMonitor.Application.dll
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Core\FibroidMonitor.Application\bin\Debug\net8.0\FibroidMonitor.Application.pdb
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Core\FibroidMonitor.Application\obj\Debug\net8.0\FibroidMonitor.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Core\FibroidMonitor.Application\obj\Debug\net8.0\FibroidMonitor.Application.AssemblyInfoInputs.cache
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Core\FibroidMonitor.Application\obj\Debug\net8.0\FibroidMonitor.Application.AssemblyInfo.cs
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Core\FibroidMonitor.Application\obj\Debug\net8.0\FibroidMonitor.Application.csproj.CoreCompileInputs.cache
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Core\FibroidMonitor.Application\obj\Debug\net8.0\FibroidMonitor.Application.dll
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Core\FibroidMonitor.Application\obj\Debug\net8.0\refint\FibroidMonitor.Application.dll
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Core\FibroidMonitor.Application\obj\Debug\net8.0\FibroidMonitor.Application.pdb
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Core\FibroidMonitor.Application\obj\Debug\net8.0\ref\FibroidMonitor.Application.dll

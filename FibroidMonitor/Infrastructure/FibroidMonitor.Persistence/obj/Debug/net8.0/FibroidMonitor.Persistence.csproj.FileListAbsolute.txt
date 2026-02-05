@@ -1,0 +1,11 @@
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Persistence\bin\Debug\net8.0\FibroidMonitor.Persistence.deps.json
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Persistence\bin\Debug\net8.0\FibroidMonitor.Persistence.dll
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Persistence\bin\Debug\net8.0\FibroidMonitor.Persistence.pdb
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Persistence\obj\Debug\net8.0\FibroidMonitor.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Persistence\obj\Debug\net8.0\FibroidMonitor.Persistence.AssemblyInfoInputs.cache
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Persistence\obj\Debug\net8.0\FibroidMonitor.Persistence.AssemblyInfo.cs
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Persistence\obj\Debug\net8.0\FibroidMonitor.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Persistence\obj\Debug\net8.0\FibroidMonitor.Persistence.dll
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Persistence\obj\Debug\net8.0\refint\FibroidMonitor.Persistence.dll
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Persistence\obj\Debug\net8.0\FibroidMonitor.Persistence.pdb
+C:\Users\sogunsanya\OneDrive - Upland Software Inc\Desktop\Toluwani_Project\src\FibroidMonitor\Infrastructure\FibroidMonitor.Persistence\obj\Debug\net8.0\ref\FibroidMonitor.Persistence.dll
