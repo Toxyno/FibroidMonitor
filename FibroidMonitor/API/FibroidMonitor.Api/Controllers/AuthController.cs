@@ -1,10 +1,4 @@
-﻿using FibroidMonitor.Api.Auth;
-using FibroidMonitor.Application.Contracts.Repositories;
-using FibroidMonitor.Domain;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-
-namespace FibroidMonitor.Api.Controllers
+﻿namespace FibroidMonitor.Api.Controllers
 {
     [ApiController]
     [Route("api/auth")]

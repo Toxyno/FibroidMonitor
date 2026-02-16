@@ -1,11 +1,4 @@
-﻿using FibroidMonitor.Api.Auth;
-using FibroidMonitor.Application.Contracts.FMonitorInterface;
-using FibroidMonitor.Domain;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-
-namespace FibroidMonitor.Api.Controllers
+﻿namespace FibroidMonitor.Api.Controllers
 {
     [ApiController]
     [Authorize]
@@ -24,6 +17,7 @@ namespace FibroidMonitor.Api.Controllers
         [HttpGet]
         public async Task<ActionResult<List<SymptomLogDto>>> GetRange([FromQuery] DateOnly from, [FromQuery] DateOnly to, CancellationToken ct)
         {
+
             var userId = UserContext.GetUserId(User);
             var items = await logs.GetRangeAsync(userId, from, to, ct);
             return items.Select(x => new SymptomLogDto(x.LogDate, x.BleedingIntensity, x.PainScore, x.EnergyLevel, x.MoodScore, x.Notes)).ToList();

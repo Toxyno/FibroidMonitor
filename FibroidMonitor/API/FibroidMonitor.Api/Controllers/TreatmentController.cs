@@ -1,12 +1,4 @@
-﻿using FibroidMonitor.Api.Auth;
-using FibroidMonitor.Application.Contracts.FMonitorInterface;
-using FibroidMonitor.Domain;
-using FibroidMonitor.Domain.Enumeration;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-
-namespace FibroidMonitor.Api.Controllers
+﻿namespace FibroidMonitor.Api.Controllers
 {
     [ApiController]
     [Authorize]

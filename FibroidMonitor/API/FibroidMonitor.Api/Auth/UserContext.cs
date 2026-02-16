@@ -1,6 +1,4 @@
-﻿using System.Security.Claims;
-
-namespace FibroidMonitor.Api.Auth
+﻿namespace FibroidMonitor.Api.Auth
 {
     public static class UserContext
     {
