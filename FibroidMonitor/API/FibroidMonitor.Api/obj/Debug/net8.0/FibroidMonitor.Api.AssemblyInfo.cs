@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FibroidMonitor.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5441be530dcc1decf41c9fdc37e07c66c253afe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48bd73942deb2ebe60bd4c7bb038bf224d564796")]
 [assembly: System.Reflection.AssemblyProductAttribute("FibroidMonitor.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FibroidMonitor.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
